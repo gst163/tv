@@ -1,0 +1,7 @@
+上海卫视,http://125.43.247.22:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+安徽卫视,http://125.43.247.22:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+山东卫视,http://125.43.247.22:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+山西卫视,http://125.43.247.22:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+广东卫视,http://125.43.247.22:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+辽宁卫视,http://125.43.247.22:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+魅力音乐,http://125.43.247.22:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
